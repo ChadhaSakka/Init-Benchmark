@@ -1,0 +1,2 @@
+     title             KiB             MiB             GiB          n          r               d             min             max            mean                 stddev (%)      MiB/s
+      BASE           1.000           0.001           0.000         64         60         357.820          57.517          64.150          59.765           0.988 (1.653 %)   8169.999
